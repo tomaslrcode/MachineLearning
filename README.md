@@ -11,6 +11,6 @@ The solutions to the assignments were done on Matlab. If Matlab is not available
 ## Authors
 
 * **Tomas Rondon** 
-* **https://github.com/tomaslrcoden** 
+* **https://github.com/tomaslrcode** 
 
 
