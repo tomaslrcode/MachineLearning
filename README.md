@@ -10,5 +10,7 @@ The solutions to the assignments were done on Matlab. If Matlab is not available
 
 ## Authors
 
-* **Tomas Rondon** [PurpleBooth](https://github.com/tomaslrcode)
+* **Tomas Rondon** 
+* **https://github.com/tomaslrcoden** 
+
 
